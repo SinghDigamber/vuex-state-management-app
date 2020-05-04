@@ -1,4 +1,5 @@
 # vuex-state-management-app
+[Vue.js 2 + Vuex State Management Tutorial by Example](https://www.positronx.io/vue-js-vuex-state-management-tutorial-by-example/)
 
 ## Project setup
 ```
